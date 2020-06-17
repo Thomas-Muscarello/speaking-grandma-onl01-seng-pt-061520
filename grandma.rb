@@ -1,21 +1,5 @@
 def speak_to_grandma(phrase)
-  if (phrase==phrase.upcase)
+  if == "I LOVE YOU GRANDMA"
+    "I LOVE YOU TOO PUMPKIN"
+end
     
-
-
-
-
-
-
-
-sayHiToGrandma(string){
-    if (string.toLowerCase() === string){
-      return 'I can\'t hear you!';
-    }
-    if (string.toUpperCase() === string){
-      return 'YES INDEED!';
-    }
-    if (string === 'I love you, Grandma.'){
-      return 'I love you, too.';
-    }
-}

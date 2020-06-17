@@ -6,6 +6,6 @@ def speak_to_grandma(string)
     return "NO, NOT SINCE 1938!"
     
   elsif string != "I LOVE YOU GRANDMA!"
-    return 
+    return "Hu?! SPEAK UP, SONNY!"
  end
 end 

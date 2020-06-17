@@ -5,6 +5,5 @@ def speak_to_grandma(string)
     return "I LOVE YOU TOO PUMPKIN!"
   elsif string != "I LOVE YOU GRANDMA!"
     return 
-  
-  
+ end
 end 

@@ -7,5 +7,8 @@ def speak_to_grandma(string)
     
   elsif string == string.capitalize
     return "HUH?! SPEAK UP, SONNY!"
+  
+   elsif string == string.capitalize
+    return "HUH?! SPEAK UP, SONNY!"
  end
 end 

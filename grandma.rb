@@ -1,4 +1,12 @@
-def speak_to_grandma (string)
-  if (string == string.upcase)
-    return "NO, NOT SINCE 1938!"
-end
+
+sayHiToGrandma(string){
+    if (string.toLowerCase() === string){
+      return 'I can\'t hear you!';
+    }
+    if (string.toUpperCase() === string){
+      return 'YES INDEED!';
+    }
+    if (string === 'I love you, Grandma.'){
+      return 'I love you, too.';
+    }
+}
